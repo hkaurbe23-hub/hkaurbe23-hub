@@ -1,7 +1,7 @@
-<h1 align="center">🎮 Hey, I'm <strong>Harnoor Kaur</strong> — The Developer Who Writes Code Like It's a Game ⚡</h1>
+<h1 align="center">🎮 Hey, I'm <strong>Harnoor kaur Kaur</strong> — The Developer Who Writes Code Like It's a Game ⚡</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/2ikwIgNrmPZICNmRyX/giphy.gif" width="600" alt="Gaming Gif"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2FmN3g0aDFrNWRmc2htbmFnYms1OHNyb2RnMXRsc3g2Z3BlcWYwZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bdIHP4CqxvdUe2MJH8/giphy.gif" width="600" alt="Fun Gaming Gif"/>
 </p>
 
 ---
@@ -68,7 +68,6 @@ Full MERN application solving real-world challenges.
 ## 🎮 Fun Facts (Because why not?)
 
 - 🎧 Coding with music increases my power level by +50  
-- 🍕 Pizza + Code = Perfect Combo  
 - 🧩 I treat every bug like a side quest  
 - ⚡ Press F5 to refresh my brain  
 - 💬 I love helping teammates — co-op is the best mode  
@@ -78,9 +77,9 @@ Full MERN application solving real-world challenges.
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="mailto:hkaur_be23@thapar.edu"><strong>Email</strong></a> |
+  <a href="hkaur_be23@thapar.edu"><strong>Email</strong></a> |
   <a href="https://github.com/hkaurbe23-hub"><strong>GitHub</strong></a> |
-  <em>(Add your LinkedIn for extra XP!)</em>
+  <em>(https://www.linkedin.com/in/harnoor-kaur-615212318/)</em>
 </p>
 
 ---
@@ -88,6 +87,6 @@ Full MERN application solving real-world challenges.
 <h3 align="center">🚀 “Write code. Level up. Repeat.”</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/l3vQXT7C0tG7JDyRO/giphy.gif" width="300"/>
 </p>
 
