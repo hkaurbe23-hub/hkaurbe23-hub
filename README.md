@@ -15,14 +15,14 @@
 
 ---
 
-## 🎯 My Playstyle (Skills)
+## 🎯 My Skills
 
-### 🛡️ Frontend (Attack)
+### 🛡️ Frontend
 - ⚔️ **React.js**  
 - 🎨 UI/UX, Styled Components, HTML/CSS  
 - ⚡ Responsive Web Design
 
-### 🧱 Backend (Defense)
+### 🧱 Backend 
 - 🧬 **Node.js**, **Express.js**  
 - 🗄️ MongoDB  
 - 🔐 Authentication (JWT, OAuth)
@@ -49,7 +49,7 @@
 
 ---
 
-## 🎮 Fun Facts (Because why not?)
+##  Fun Facts (Because why not?)
 
 - 🎧 Coding with music boosts my power level  
 - 🧩 Every bug = a side quest  
