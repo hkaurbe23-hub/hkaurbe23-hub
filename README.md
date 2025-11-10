@@ -41,6 +41,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hkaurbe23-hub&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,python,mongodb,mysql,postgresql,redis,docker,aws,nginx,linux,git,postman,rabbitmq,elasticsearch&perline=9" />
+  </a>
+</p>
+
 ---
 
 ## 🎮 Fun Facts (Because why not?)
