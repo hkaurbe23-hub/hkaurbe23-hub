@@ -46,6 +46,10 @@
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,python,mongodb,mysql,postgresql,redis,docker,aws,nginx,linux,git,postman,rabbitmq,elasticsearch&perline=9" />
   </a>
 </p>
+<img src="https://github-profile-trophy.vercel.app/?username=Shreytan&theme=onestar&margin-w=15&margin-h=15&no-frame=true" alt="GitHub trophies">
+<br><br>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shreytan&theme=tokyo-night" alt="Activity graph">
+
 
 ---
 
