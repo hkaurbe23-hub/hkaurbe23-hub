@@ -1,4 +1,4 @@
-<h1 align="center">🎮 Hey, I'm <strong>Harnoor Kaur</strong> — The Developer Who Writes Code Like It's a Game ⚡</h1>
+<h1 align="center"> Hey, I'm <strong>Harnoor Kaur</strong> — The Developer Who Writes Code Like It's a Game ⚡</h1>
 
 <p align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2FmN3g0aDFrNWRmc2htbmFnYms1OHNyb2RnMXRsc3g2Z3BlcWYwZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bdIHP4CqxvdUe2MJH8/giphy.gif" width="300" alt="Fun Gaming Gif"/>
