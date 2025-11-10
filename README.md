@@ -8,8 +8,7 @@
 
 ## 👾 Who Am I?
 
-🕹️ A **full-stack developer** leveling up every day  
-🔥 A **gamer at heart**, coder by passion  
+🕹️ A **full-stack developer** leveling up every day   
 ⚡ Turning bugs into features (critical hits!)  
 💡 Currently grinding MERN stack, Android, Cloud & Cybersecurity  
 🚀 Love building apps that feel smooth, fast, and fun  
@@ -38,7 +37,7 @@
 ## 🏆 GitHub XP Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hkaurbe23-hub&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hkaurbe23-hub&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
